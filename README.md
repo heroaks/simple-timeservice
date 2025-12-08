@@ -29,8 +29,8 @@
 > - You can manually (temporarily) set AWS credentials through environment variables :-
 > ```
 > export AWS_ACCESS_KEY_ID=your_key
-export AWS_SECRET_ACCESS_KEY=your_secret
-export AWS_DEFAULT_REGION=ap-south-1
+> export AWS_SECRET_ACCESS_KEY=your_secret
+> export AWS_DEFAULT_REGION=ap-south-1
 > ```
 > - Go into terraform directory `cd terraform`
 > - Run the following commands to build the infrastructure :-
